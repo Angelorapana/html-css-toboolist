@@ -27,9 +27,34 @@ main{
     margin-right: 100px;}
 
 .onlybutton{
-    padding:0;
+   background-color: cornflowerblue;
+   margin-top: 20px;
+   margin-left: 50px;
+   width: 90px;
+   color: white;
+   text-align: center;
+   height: 30px;
+   border-radius: 20%;
+}
+
+button{
+   background-color: rgb(247, 249, 251);
+   margin-top: 20px;
+   margin-left: 5px;
+   width: 90px;
+   color: rgb(163, 162, 162);
+   text-align: center;
+   height: 30px;
+   border-radius: 20%;
+}
+
+h2{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    margin-top: 20px;  
 }
 
 body{
     background-color: rgb(217, 217, 217);
 }
+
